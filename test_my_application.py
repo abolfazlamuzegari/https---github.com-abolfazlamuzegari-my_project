@@ -1,6 +1,8 @@
 from playwright.sync_api import Page, expect
 import pytest
-from creds import username, password
+
+username = "9811126005"
+password = "@Bolf1379"
 
 
 @pytest.fixture(autouse=True, scope="function")
