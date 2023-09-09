@@ -1,2 +1,4 @@
 #virtual environment
 myvenv
+__pycache__
+.pytest-caches
