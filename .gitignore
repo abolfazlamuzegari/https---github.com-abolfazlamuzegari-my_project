@@ -3,3 +3,7 @@ myvenv
 __pycache__
 .pytest-caches
 pytest.ini
+test_my_application.py
+test_webpage.py
+web_page.py
+creds.py
